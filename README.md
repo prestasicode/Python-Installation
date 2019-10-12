@@ -1,5 +1,6 @@
 # Python-Installation
 Python is powerful... and fast; plays well with others; runs everywhere; is friendly &amp; easy to learn; is Open.
+Python is one of language programming that's friendly and easy to learn, python has many package to applicate in any problems. 
 
 # First of all, before you install exactly you must download that's setup, you can follow steps below:
 1. Check your computer information, system type 32 bit or 64 bit.
@@ -15,3 +16,6 @@ If your python shell already issued Hello World so your installation is success.
 You can check version python that's already installed in your computer, first search command prompt in your computer or enough to type "cmd" in start all programs.
 Type "python --version" and enter, that's result will be showed python version which installed in your computer.
 Example : output is "python 3.6.8" or python 3.7.2", etc.
+
+
+LET'S TRY! GOOD LUCK!
